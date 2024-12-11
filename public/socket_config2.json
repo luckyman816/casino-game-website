@@ -1,0 +1,9 @@
+{
+    "port": "/server",
+    "host": "server.softofgames.com",
+    "game_host": "softofgames.com",
+    "prefix": "https://",
+    "host_ws": "server.softofgames.com",
+    "prefix_ws": "wss://",
+    "ssl": true
+}

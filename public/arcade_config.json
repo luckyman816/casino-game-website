@@ -1,0 +1,10 @@
+{
+    "port": "/arcade",
+    "host": "arcade.softofgames.com",
+    "game_host": "softofgames.com",
+    "prefix": "https://",
+    "host_ws": "arcade.softofgames.com",
+    "prefix_ws": "wss://",
+    "ssl": true,
+    "timezone": "Europe/Berlin"
+}

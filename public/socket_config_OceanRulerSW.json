@@ -1,0 +1,13 @@
+{
+
+"port":"22053/fish",
+
+"host":"softofgames.com",
+"prefix":"https://",
+
+"host_ws":"softofgames.com",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}

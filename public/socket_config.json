@@ -1,0 +1,9 @@
+{
+    "port": "/slots",
+    "host": "slots.softofgames.com",
+    "game_host": "softofgames.com",
+    "prefix": "https://",
+    "host_ws": "slots.softofgames.com",
+    "prefix_ws": "wss://",
+    "ssl": true
+}

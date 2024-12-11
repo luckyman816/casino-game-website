@@ -1,0 +1,591 @@
+sudo apt update
+sudo apt install php-mbstring php-xml php-bcmath php-curl php-imagick php-gd phpintl
+sudo apt install php-mbstring php-xml php-bcmath php-curl php-imagick php-gd php-intl
+php -v
+apt uninstall php-*
+apt remove php-*
+php -v
+apt autoremove
+sudo apt-get install -y php8.1-cli php8.1-common php8.1-mysql php8.1-zip php8.1-gd php8.1-mbstring php8.1-curl php8.1-xml php8.1-bcmath
+sudo apt install ca-certificates apt-transport-https software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+php -v
+sudo apt update
+sudo apt install php8.1 -y
+sudo apt install php-mbstring php-xml php-bcmath php-curl php-imagick php-gd php-intl
+php -v
+apt install mysql-server
+apt install nginx
+php -v
+cd /var/www/
+ls
+wget https://ganesh.bet/ganesh_core.zip
+wget https://ganesh.bet/fpanelganesh.zip
+wget https://ganesh.bet/ganesh_core.zip
+ls
+rm ganesh_core.zip.1 
+wget https://ganesh.bet/ganesh_public.zip
+ls
+unzip ganesh_core.zip 
+apt install unzip
+unzip ganesh_core.zip 
+ls
+unzip ganesh_public.zip 
+ls
+unzip fpanelganesh.zip 
+ls
+cd casino/
+ls
+rm PTWebSocket-/
+rm PTWebSocket-/ -r
+rm PTWebSocketxx/ -r
+ls
+nano /etc/nginx/sites-available/softofgames.com
+sudo ln -s /etc/nginx/sites-available/softofgames.com /etc/nginx/sites-enabled/
+sudo nginx -t
+sudo systemctl reload nginx
+service nginx status
+service nginx start
+systemctl status nginx.service
+service apache2 status
+service apache2 stop
+service nginx start
+nano .env
+mysql
+ls
+nano .env
+sudo chown -R www-data.www-data /var/www/casino/storage
+sudo chown -R www-data.www-data /var/www/casino/bootstrap/cache/
+nano /etc/nginx/sites-available/softofgames.com
+service apache2 status
+service nginx status
+service nginx restart
+service nginx stop
+service nginx restart
+nano /etc/nginx/sites-available/softofgames.com 
+cd /var/run/php
+cd /var/run
+ls
+nano /etc/nginx/sites-available/softofgames.com 
+apt install php-cli
+php -v
+ls
+cd php
+cd apache2/
+ls
+cd ..
+apt install php-fpm
+ls
+cd php/
+ls
+cd ..
+cd www/
+grep -lir "ganesh.bet/httpdocs" /var/www/
+cd casino/
+php artisan config:cache
+php artisan cache:clear
+grep -lir "ganesh.bet/httpdocs" /var/www/
+rm /var/www/casino/storage/framework/views/*
+grep -lir "ganesh.bet/httpdocs" /var/www/
+nano /var/www/casino/bootstrap/cache/config.php
+rm /var/www/casino/bootstrap/cache/config.php
+rm /var/www/casino/storage/logs/laravel.log
+php -m
+sudo apt install openssl php8.3-bcmath php8.3-curl php8.3-json php8.3-mbstring php8.3-mysql php8.3-tokenizer php8.3-xml php8.3-zip
+sudo apt install openssl php-bcmath php-curl php-json php-mbstring php-mysql php-tokenizer php-xml php-zip
+cd /var/www/public/
+ls
+cd frontend/
+ls
+cd Default
+ls
+cd ico/
+ls
+cd ..
+cd casino/
+ls
+cd resources/
+cd views/
+ls
+cd frontend/
+ls
+nano /var/www/casino/app/Http/Controllers/Web/Frontend/GamesController.php 
+mv Default Default-slide
+mv Default-0517/
+mv Default-0517/ Default
+ls
+mv Default-0517
+mv Default Default-0517
+mv Default-slide/ Default
+cd ..
+wget https://live.totalbet365.pro/live.totalbet365.pro.zip
+ls
+cd vhosts/
+ls
+cd ganesh.bet/
+ls
+cd httpdocs/
+ls
+cd casino/
+ls
+cd storage/
+ls
+cd ..
+ls
+unzip live.totalbet365.pro.zip 
+ls
+cd live.totalbet365.pro/
+ls
+cd ..
+cd casino/resources/views/frontend/
+ls
+mv Default Default-old
+ls
+cd ..
+cp live.totalbet365.pro/resources/views/frontend/Default casino/resources/views/frontend/
+cp live.totalbet365.pro/resources/views/frontend/Default casino/resources/views/frontend/ -r
+cd /var/www/casino/resources/
+ls
+cd views/
+ls
+cd frontend/
+ls
+cd ..
+ls
+cp live.totalbet365.pro/public/frontend/* public/frontend/ -r
+ls
+cd /var/www/
+ls
+mv live.totalbet365.pro casino
+cd casino/
+ls
+nano .env
+sudo chown -R www-data.www-data /var/www/casino/storage/
+sudo chown -R www-data.www-data /var/www/casino/bootstrap/cache
+cd /var/www/
+ls
+cp live.totalbet365.pro/resources/ casino/
+cp live.totalbet365.pro/resources/ casino/ -r
+cd casino/
+ls
+cd resources/
+ls
+cd ..
+ls
+cp live.totalbet365.pro/public/ casino/
+cp live.totalbet365.pro/public/ casino/ -r
+nano /etc/nginx/sites-available/softofgames.com 
+service nginx restart
+rm casino/resources/ -rf
+cp live.totalbet365.pro/resources/ casino/
+cp live.totalbet365.pro/resources/ casino/ -r
+ls
+cd live.totalbet365.pro/
+ls
+cd resources/views/frontend/
+ls
+cd ...
+cd ..
+cd casino/
+ls
+nano .env
+cd app/
+ls
+cd Http/Middleware/
+ls
+nano Checker.php 
+cd ..
+mv casino/ casino_old
+mv live.totalbet365.pro casino
+cp casino_old/.env casino
+mv casino casino_
+mv casino_ casino
+rm /var/www/casino/storage/logs/laravel.log
+sudo chown -R www-data.www-data /var/www/casino/storage
+sudo chown -R www-data.www-data /var/www/casino/bootstrap/cache/
+nano casino/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php
+mv casino live-total
+mv casino_old/ casino
+mv casino/ casino_
+mv live-total/ casino
+rm casino -rf
+rm casino_/ -rf
+ls
+unzip live.totalbet365.pro.zip 
+nano casino/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php
+cd /var/www/
+nano casino/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php
+php -v
+ls
+unzip ganesh_core.zip 
+l
+cd casino/
+ls
+rm PTWebSocket-/ PTWebSocketxx/ vendor_ORG/ -rf
+ls
+cd ..
+ls
+mv casino/ live
+unzip ganesh_core.zip 
+ls
+cd casino/
+ls
+rm .env
+rm app/Http/Middleware/Checker.php 
+rm resources/views/frontend/Default
+rm resources/views/frontend/Default -r
+rm resources/views/frontend/Default -rf
+rm resources/views/frontend/Apollo/ -rf
+cd ..
+cp live/.env casino/
+cp live/resources/views/frontend/Default casino/resources/views/frontend/
+cp live/resources/views/frontend/Default casino/resources/views/frontend/ -r
+cp live/resources/views/frontend/Apollo casino/resources/views/frontend/ -r
+ls live/resources/views/frontend/
+ls casino/resources/views/frontend/
+cp live/public/ casino/
+cp live/public/ casino/ -r
+sudo chown -R www-data.www-data /var/www/casino/storage
+sudo chown -R www-data.www-data /var/www/casino/bootstrap/cache/
+rm casino/storage/app/*
+rm casino/storage/app/* -rf
+rm casino/storage/logs/laravel.log 
+ls casino/bootstrap/cache/
+ls
+rm casino/bootstrap/cache/config.php 
+cp live/app/Http/Middleware/Checker.php casino/app/Http/Middleware/
+rm casino/public/back/ -rf
+cp public/back/ casino/public/ -r
+nano public/back/dist/css/custom.css 
+nano casino/public/back/dist/css/custom.css 
+cd casino/
+ls
+cd storage/
+ls
+cd app/
+ls
+cd ..
+cd debugbar/
+ls
+rm ./*
+cd ..
+rm debugbar/*
+rm debugbar/* -r
+ls
+cd framework/
+ls
+rm cache/*
+rm cache/* -r
+rm views/* -rf
+cd cache/
+ls
+cd ..
+cd public/
+ls
+cd back/
+ls
+cd dist/
+ls
+cd css/
+ls
+nano custom.css 
+cd ..
+cp live/storage/app/* casino/storage/app
+cp live/storage/app/* casino/storage/app -r
+cd casino/
+ls
+cd public/
+ls
+cd ..
+cd live/public/
+ls
+cd assets/
+ls
+cd ..
+cd casino/resources/views/backend
+ls
+ls partials/
+ls
+ls partials/
+ls layouts/
+nano layouts/auth.blade.php 
+ls auth/
+ls
+nano auth/login.blade.php
+cd ..
+ls public/
+cp public/app-assets/ casino/public/ -r
+ls
+wget https://totalbetgames.pro/p5games.zip
+mv p5games.zip casino/public/
+ls
+cd casino/public/
+ls
+mkdir games
+mv p5games.zip games/
+ls
+cd games/
+ls
+unzip p5games.zip 
+cd /var/www/casino/
+mysql
+nano app/Http/Controllers/Web/Frontend/GamesController.php 
+nano /var/www/casino/storage/framework/views/56c1a2614f5dd16d2c7437196eefe0d7eab7b232.php
+rm /var/www/casino/storage/framework/views/56c1a2614f5dd16d2c7437196eefe0d7eab7b232.php
+nano /var/www/casino/storage/framework/views/56c1a2614f5dd16d2c7437196eefe0d7eab7b232.php
+cd resources/views/frontend/Default/
+ls
+cd partials/
+ls
+nano header_logged.blade.php 
+cd /var/www/casino/public/frontend/Default/ico/
+ls
+cd /var/www/casino/public/frontend/Default/ico
+wget https://totalbetgames.pro/frontend/Default/ico/ico.zip
+unzip ico.zip 
+cd ..
+cd games/
+ls
+wget https://totalbetgames.pro/games/p5mobile.zip
+ls
+mysql
+cd /var/www/casino/
+ls
+cd public/games/
+ls
+cd ..
+cd app/Http/Controllers/Web/Frontend/
+ls
+nano GamesController.php 
+msqyl
+mysql
+nano GamesController.php 
+cd /var/www/casino/
+nano app/Http/Controllers/Web/Frontend/GamesController.php 
+mysql
+cd /var/www/casino/
+nano .env
+pm2 ls
+node -v
+composer
+scp
+clear
+ls
+scp root@194.233.72.233:/var/www/_backup.zip /var/www
+cd /var/www/
+unzip _backup.zip -d /var/www/_backup
+cd api-slots
+composer install
+php artisan serve
+composer install
+apt install composer
+composer install
+php -v
+cd ../casino/
+php artisan
+php artisan cache clean
+php artisan cache:clear
+php artisan storage
+php artisan route
+php artisan route:clear
+php artisan cache:clear
+php artisan route:clear
+php artisan cache:clear
+php artisan route:clear
+php artisan cache:clear
+cd casino/
+git remote -v
+cd ../live
+git remote -v
+cd ../
+wget https://filetransfer.io/data-package/IDFUbR90#
+wget https://filetransfer.io/data-package/IDFUbR90/download
+unzip api-slots.zip 
+unzip api-slots.zip -d api-slots
+mysql
+cd casino/
+php artisan cache:clear
+php artisan route:clear
+php artisan cache:clear
+systemctl restart mysqld
+systemctl restart mysql
+git clone https://github.com/zeus0219/game-api-server
+ls
+ls -l
+du -sh /var/www/game-api-server/
+mysql
+cd casino
+php artisan serve
+php artisan cache:clear
+composer install
+php artisan cache:clear
+php -v
+sudo a2dismod php8.3
+sudo a2dismod php8.3.10
+sudo a2dismod php7.4
+sudo apt update 
+sudo apt install software-properties-common 
+sudo add-apt-repository ppa:ondrej/php 
+sudo apt install php7.2
+sudo alternatives --config php
+php -v
+sudo alternatives --config php
+alternatives --config php
+apt install alternatives
+alternatives --config php
+galternatives --config php
+apt install galternatives
+galternatives --config php
+sudo update-alternatives --config php
+galternatives --config php
+sudo update-alternatives --config php
+php -v
+composer install
+sudo update-alternatives --config php
+sudo apt install php7.3
+sudo update-alternatives --config php
+php -v
+composer install
+php --ini
+sudo update-alternatives --config php
+php -v
+sudo update-alternatives --config php
+php -v
+sudo update-alternatives --config php
+php -v
+php artisan cache:clear
+cd casino
+php artisan cache:clear
+php artisan route:clear
+php artisan view:clear
+cd ../casino0
+php artisan view:clear
+sudo nginx -t
+sudo systemctl reload nginx
+cd ../casino
+php artisan view:clear
+unzip backup_file.zip -d casino
+mysql
+rm -rf _backup/
+rm -rf api-slots/
+df -h
+rm -rf casino1
+rm -rf live
+rm -rf backup_file.zip
+rm -rf backup_file111.sql 
+rm -rf fpanelganesh.
+rm -rf fpanelganesh.sql 
+rm -rf fpanelganesh.zip 
+rm -rf ganesh_core.zip 
+rm -rf ganesh_public.zip 
+rm -rf live.totalbet365.pro.zip 
+df -h
+rm -rf public/
+rm -rf ufw status
+ufw status
+node -v
+apt install nodejs
+node -v
+apt-get install curl
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+apt-get install nodejs
+node -v
+npm install -g ws
+npm install -g request
+npm install pm2 -g
+df -h
+wget https://notary.alfassa.org/assets/game.zip
+unzip game.zip -d games
+df -h
+sudo systemctl status redis
+df -h
+rm -rf game.zip 
+unzip s_backup.zip -d casino
+unzip pu_.zip -d casino/
+mysql
+sudo systemctl status redis
+df -h
+sudo systemctl status redis
+df -i
+sudo apt-get clean
+sudo rm -rf /var/log/* /tmp/*
+df -i
+sudo systemctl status redis
+sudo systemctl stop redis
+sudo pkill redis
+sudo journalctl -u redis
+sudo systemctl start redis
+dh -f
+df -h
+rm -rf casino0
+df -h
+cd casino/PTWebSocket/
+pm2 start Arcade.js 
+pm2 start Server.js 
+pm2 start Slots.js 
+pm2 startup
+pm2 save
+pm2 log 0
+pm2 log 1
+pm2 log 2
+pm2 ls
+pm2 log 0
+pm2 log 1
+pm2 log 2
+sudo apt install redis-server
+sudo systemctl restart redis.service
+systemctl status redis-server.servicesudo apt update
+sudo systemctl status redis
+sudo systemctl start redis
+sudo apt update
+sudo apt install redis-server
+sudo systemctl start redis
+sudo sysctl fs.inotify.max_user_watches=524288
+sudo echo "fs.inotify.max_user_watches=524288" >> /etc/sysctl.conf
+sudo sysctl -p
+sudo systemctl start redis
+sudo systemctl stop redis
+sudo systemctl start redis
+sudo systemctl stop redis
+sudo systemctl status redis
+sudo apt install redis-server
+sudo systemctl status redis
+sudo systemctl start redis
+sudo systemctl status redis
+sudo systemctl start redis
+sudo systemctl restart redis
+sudo systemctl status redis
+ulimit -a
+sudo reboot
+sudo systemctl status redis
+sudo journalctl -u redis
+sudo redis-server /etc/redis/redis.conf --test-memory 4096
+sudo apt-get remove --purge redis-server
+sudo apt-get install redis-server
+sudo systemctl start redis
+systemctl status redis-server.service
+sudo netstat -tuln | grep 6379
+apt install netstat
+sudo netstat -tuln | grep 6379
+apt install net-tools
+sudo netstat -tuln | grep 6379
+sudo netstat -tuln
+sudo mkdir -p /run/redis
+sudo chown redis:redis /run/redis
+ulimit -a
+sudo redis-server /etc/redis/redis.conf --test-memory 4096
+sudo mkdir -p /var/log/redis
+sudo chown redis:redis /var/log/redis
+sudo redis-server /etc/redis/redis.conf --test-memory 4096
+df -h
+sudo systemctl start redis
+journalctl -xe
+sudo redis-server /etc/redis/redis.conf --test-memory 4096
+sudo redis-server --test-memory 4096
+sudo systemctl start redis
+sudo systemctl restart redis
+systemctl status redis-server.service
+dh -f
+df -f
+df -h
+reboot
